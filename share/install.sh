@@ -1,0 +1,3 @@
+#!/bin/bash
+# install package to generate usb disk auto install with preseed
+apt-get install -qy parted curl sudo kpartx rsync dosfstools
